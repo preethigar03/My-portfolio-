@@ -24,9 +24,6 @@
     transition:0.3s;
 }
 
-.skill-card:hover{
-    transform:translateY(-8px);
-}
 
 .skill-card h3{
     color:#e9e4ff;
